@@ -1,1 +1,1 @@
-# age-of-ai
+# The age of applied AI
