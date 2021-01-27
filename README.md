@@ -13,6 +13,8 @@ By [Amy Boyd]() and [Henk Boelman]()
 ## Chapter 3 - What is possible?
 
 ## Chapter 4 - Responsible AI
+- Blog Post: aka.ms/ethical-ai-questions
+
 
 ## Chapter 5 - Build vs Buy
 
