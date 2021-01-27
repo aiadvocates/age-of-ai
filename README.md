@@ -23,6 +23,7 @@ By [Amy Boyd]() and [Henk Boelman]()
 
 
 ## Inspiration
+- aka.ms/aiapril
 
 ## Learn
 
