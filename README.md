@@ -14,6 +14,8 @@ By [Amy Boyd]() and [Henk Boelman]()
 
 ## Chapter 4 - Responsible AI
 - Blog Post: aka.ms/ethical-ai-questions
+- FATE: aka.ms/gaib-fate
+
 
 
 ## Chapter 5 - Build vs Buy
