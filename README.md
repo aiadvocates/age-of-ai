@@ -7,9 +7,9 @@ In this talk we dive into the current state of everyday AI, debate the challenge
 
 By [Amy Boyd](https://twitter.com/AmyKateNicho) and [Henk Boelman](https://twitter.com/hboelman)
 
-## Cloud Skills Challenge
+# Cloud Skills Challenge
 
-### Azure Lowlands 2021
+## Azure Lowlands 2021
 
 **Challenge Page:** [Azure Lowlands 2021 - Age of Applied AI](https://docs.microsoft.com/learn/challenges?id=75e4bb5e-075d-4d9c-8235-d259d567f83d&ocid=aid3028059?WT.mc_id=aiml-13838-CXA)
 
@@ -20,8 +20,10 @@ We have 3 swag bag prizes available for you to win by reaching the top of the le
 This challenge will run from 29th January 2021 - 3rd February 2021. On 4th February 2021 we will post the aliases of the 3 winning accounts on this page and ask for you to reach out to us - so keep an eye on the link above.
 
 
-### NDC London 2021
+## NDC London 2021
 
+
+# Chapter Related Resources
 
 ## Chapter 1 - The history of AI
 
