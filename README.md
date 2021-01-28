@@ -1,4 +1,4 @@
-![Age of Applied AI](age-of-ai.PNG)
+![Age of Applied AI](age-of-ai.JPG)
 aiml-13838-CXA
 
 # The Age of Applied AI
