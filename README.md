@@ -3,7 +3,7 @@ After a tremendous age of innovation and research in the AI field, we are moving
 
 In this talk we dive into the current state of everyday AI, debate the challenges that come with responsible AI and you will get some tips and tricks how you can advantage of AI as a developer.
 
-By [Amy Boyd]() and [Henk Boelman]()
+By [Amy Boyd](https://twitter.com/AmyKateNicho) and [Henk Boelman](https://twitter.com/hboelman)
 
 
 ## Chapter 1 - The history of AI
