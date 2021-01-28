@@ -1,4 +1,4 @@
-github-13838-CXA
+aiml-13838-CXA
 
 # The age of applied AI
 After a tremendous age of innovation and research in the AI field, we are moving towards the age of appliance. But how and where do you get started as a developer and how do you apply machine learning ethically and use it for good.
@@ -6,6 +6,21 @@ After a tremendous age of innovation and research in the AI field, we are moving
 In this talk we dive into the current state of everyday AI, debate the challenges that come with responsible AI and you will get some tips and tricks how you can advantage of AI as a developer.
 
 By [Amy Boyd](https://twitter.com/AmyKateNicho) and [Henk Boelman](https://twitter.com/hboelman)
+
+## Cloud Skills Challenge
+
+### Azure Lowlands 2021
+
+**Challenge Page:** [Azure Lowlands 2021 - Age of Applied AI](https://docs.microsoft.com/learn/challenges?id=75e4bb5e-075d-4d9c-8235-d259d567f83d&ocid=aid3028059?WT.mc_id=aiml-13838-CXA)
+
+
+**Terms and Conditions:**
+We have 3 swag bag prizes available for you to win by reaching the top of the leaderboard. 
+
+This challenge will run from 29th January 2021 - 3rd February 2021. On 4th February 2021 we will post the aliases of the 3 winning accounts on this page and ask for you to reach out to us - so keep an eye on the link above.
+
+
+### NDC London 2021
 
 
 ## Chapter 1 - The history of AI
