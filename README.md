@@ -64,7 +64,7 @@ The more you search the more you learn - but a good few starting points are shar
 
 ## Chapter 3 - What is possible?
 - [Demo video](https://www.youtube.com/watch?v=8KuJKlDSNwA)
-- [Blog post]()
+- [Blog post](https://github.com/hnky/blog/blob/master/How-to-use-Cognitive-Services-and-containers.md)
 
 ## Chapter 4 - Responsible AI
 
