@@ -18,6 +18,8 @@ The more you search the more you learn - but a good few starting points are shar
 ## Chapter 2 - What is AI?
 
 ## Chapter 3 - What is possible?
+- [Demo video](https://www.youtube.com/watch?v=8KuJKlDSNwA)
+- [Blog post]()
 
 ## Chapter 4 - Responsible AI
 - Blog Post: aka.ms/ethical-ai-questions
