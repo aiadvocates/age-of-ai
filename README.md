@@ -87,9 +87,13 @@ In this chapter we showed 2 demos that solved the problem of analyzing invoices,
 
 
 ## Learn
+- [24/7 Live developer content](https://docs.microsoft.com/learn/tv/?WT.mc_id=aiml-13838-CXA)
+- [Microsoft Learn - AI Engineer](https://docs.microsoft.com/learn/roles/ai-engineer?WT.mc_id=aiml-13838-CXA)
+- [Microsoft Learn - Data Scientist](https://docs.microsoft.com/learn/roles/data-scientist?WT.mc_id=aiml-13838-CXA)
+
 
 ## Build
-
+- [Azure AI on Microsoft Docs](https://docs.microsoft.com/azure/?product=ai-machine-learning?WT.mc_id=aiml-13838-CXA)
 
 
 
