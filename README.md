@@ -1,7 +1,8 @@
 # The Age of Applied AI
 
 - [Cloud Skills Challenges](#cloud-skills-challenge)
-- [Presentation resources](#cloud-skills-challenge)
+- [Presentation resources](#chapter-related-resources)
+- [More AI learning resources](#more-ai-learning-resources)
 
 
 ![Age of Applied AI](age-of-ai.JPG)
@@ -86,6 +87,7 @@ In this chapter we showed 2 demos that solved the problem of analyzing invoices,
 
 --------------
 
+# More AI learning resources
 
 ## Inspiration
 - Check out lot of Azure AI Content from an [AI April Campaign](https://aka.ms/aiapril)
