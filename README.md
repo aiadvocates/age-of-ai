@@ -8,6 +8,11 @@ By [Amy Boyd](https://twitter.com/AmyKateNicho) and [Henk Boelman](https://twitt
 
 ## Chapter 1 - The history of AI
 
+The more you search the more you learn - but a good few starting points are shared below. Happy searching ...
+
+* [History of Artificial Intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
+* [The Evolution of AI - RunAsRadio](http://runasradio.com/Shows/Show/739)
+
 ## Chapter 2 - What is AI?
 
 ## Chapter 3 - What is possible?
