@@ -1,4 +1,3 @@
-
 github-13838-CXA
 
 # The age of applied AI
@@ -27,6 +26,18 @@ The more you search the more you learn - but a good few starting points are shar
 
 
 ## Chapter 5 - Build vs Buy
+
+In this chapter we showed 2 demos that solved the problem of analyzing invoices, extratcing values and then using them in an application:
+* **Demo 1:** Azure Forms Recognizer and Azure Functions
+    * [Demo Video](https://youtu.be/nmqt3oDOflY)
+    * [Azure Forms Recognizer Documentation](https://docs.microsoft.com/azure/cognitive-services/form-recognizer/)
+    * [Azure Functions Documentation](https://docs.microsoft.com/azure/azure-functions/)
+* **Demo 2:** Microsoft Power Platform AI Builder and PowerApps
+    * [Demo Video](https://youtu.be/_FFMTmPDNls)
+    * [AI Builder Documentation](https://docs.microsoft.com/ai-builder/)
+    * [AI Builder Microsoft Learn Modules](https://docs.microsoft.com/learn/browse/?products=ai-builder)
+    * [Power Apps Documentation](https://docs.microsoft.com/powerapps/)
+    * [Power Apps Microsoft Learn Modules](https://docs.microsoft.com/learn/browse/?products=power-apps)
 
 
 --------------
