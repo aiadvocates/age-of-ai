@@ -111,4 +111,4 @@ In this chapter we showed 2 demos that solved the problem of analyzing invoices,
 
 ## More from the AI Advocates
 
-- [Join the AI show every week]()
+- [Join the AI show every week](https://channel9.msdn.com/Tags/ai?WT.mc_id=aiml-13838-CXA)
