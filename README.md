@@ -1,12 +1,14 @@
-![Age of Applied AI](age-of-ai.JPG)
-aiml-13838-CXA
-
 # The Age of Applied AI
+![Age of Applied AI](age-of-ai.JPG)
+
 After a tremendous age of innovation and research in the AI field, we are moving towards the age of appliance. But how and where do you get started as a developer and how do you apply machine learning ethically and use it for good.
 
 In this talk we dive into the current state of everyday AI, debate the challenges that come with responsible AI and you will get some tips and tricks how you can advantage of AI as a developer.
 
+
+
 By [Amy Boyd](https://twitter.com/AmyKateNicho) and [Henk Boelman](https://twitter.com/hboelman)
+
 
 # Cloud Skills Challenge
 
