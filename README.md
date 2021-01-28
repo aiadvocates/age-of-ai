@@ -20,10 +20,11 @@ The more you search the more you learn - but a good few starting points are shar
 ## Chapter 3 - What is possible?
 
 ## Chapter 4 - Responsible AI
-- Blog Post: aka.ms/ethical-ai-questions
-- FATE: aka.ms/gaib-fate
 
+In this chapter we spoke about "Would we Trust and AI to ..." and a FATE Framework we can use as a tool to help build ethical AI Projects. To read more check out the resources below:
 
+- [Blog Post: Would you trust an AI to …? A list of questions to help you figure out the answer](https://aka.ms/ethical-ai-questions)
+- [Microsoft Research FATE: Fairness, Accountability, Transparency and Ethics in AI](https://www.microsoft.com/research/theme/fate/)
 
 ## Chapter 5 - Build vs Buy
 
@@ -44,7 +45,10 @@ In this chapter we showed 2 demos that solved the problem of analyzing invoices,
 
 
 ## Inspiration
-- aka.ms/aiapril
+- Check out lot of Azure AI Content from an [AI April Campaign](https://aka.ms/aiapril)
+- [Kate Crawford - The Trouble with Bias, NIPS 2017 Keynote](https://aka.ms/troublewithbias)
+- [AI Now 2019 report](http://ainowinstitute.org/reports.html)
+
 
 ## Learn
 
