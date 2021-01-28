@@ -15,6 +15,7 @@ In this talk we dive into the current state of everyday AI, debate the challenge
 
 By [Amy Boyd](https://twitter.com/AmyKateNicho) and [Henk Boelman](https://twitter.com/hboelman)
 
+--------------
 
 # Cloud Skills Challenge
 
@@ -42,6 +43,8 @@ This challenge will run from 29th January 2021 - 3rd February 2021. On 4th Febru
 We have 20 Microsoft Certification Discount Codes as prizes available for you to win by reaching the top of the leaderboard. 
 
 This challenge will run from 29th January 2021 - 3rd February 2021. On 4th February 2021 we will post the aliases of the 20 winning entries on this page and ask for you to reach out to us - so keep an eye on the link above.
+
+--------------
 
 # Chapter Related Resources
 
