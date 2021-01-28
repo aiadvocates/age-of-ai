@@ -13,7 +13,8 @@ By [Amy Boyd](https://twitter.com/AmyKateNicho) and [Henk Boelman](https://twitt
 
 ![Azure Lowlands Cloud Skills Challenge Banner Art](lowlands-csc.PNG)
 
-**Challenge Page:** [Azure Lowlands 2021 - Age of Applied AI](https://docs.microsoft.com/learn/challenges?id=75e4bb5e-075d-4d9c-8235-d259d567f83d&ocid=aid3028059?WT.mc_id=aiml-13838-CXA)
+### **Challenge Page:** [Azure Lowlands 2021 - Age of Applied AI](https://docs.microsoft.com/learn/challenges?id=75e4bb5e-075d-4d9c-8235-d259d567f83d&ocid=aid3028059?WT.mc_id=aiml-13838-CXA)
+
 
 
 **Terms and Conditions:**
@@ -25,7 +26,7 @@ This challenge will run from 29th January 2021 - 3rd February 2021. On 4th Febru
 
 ![NDC London Cloud Skills Challenge Banner Art](ndc-cdc.PNG)
 
-**Challenge Page:** [NDC London 2021 - Age of Applied AI](https://cloudskillschallenge.docs.microsoft.com/CSC/Challenge?challenge=f650a290-4fcf-4b55-9b0e-c8ee224252ba?WT.mc_id=aiml-13838-CXA)
+### **Challenge Page:** [NDC London 2021 - Age of Applied AI](https://cloudskillschallenge.docs.microsoft.com/CSC/Challenge?challenge=f650a290-4fcf-4b55-9b0e-c8ee224252ba?WT.mc_id=aiml-13838-CXA)
 
 
 **Terms and Conditions:**
@@ -43,6 +44,11 @@ The more you search the more you learn - but a good few starting points are shar
 * [The Evolution of AI - RunAsRadio](http://runasradio.com/Shows/Show/739)
 
 ## Chapter 2 - What is AI?
+
+* [Fundamentals of machine learning in the cloud](https://azure.microsoft.com/resources/videos/fundamentals-of-machine-learning-in-the-cloud/?OCID=AID3028844)
+* [What is Machine Learning](https://azure.microsoft.com/overview/what-is-machine-learning-platform/)
+* [Introduction to Azure AI](https://azure.microsoft.com/resources/videos/intro-to-azure-ai/?OCID=AID3028844)
+* See more videos like this [here](https://azure.microsoft.com/resources/videos/index/)
 
 ## Chapter 3 - What is possible?
 - [Demo video](https://www.youtube.com/watch?v=8KuJKlDSNwA)
