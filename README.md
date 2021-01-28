@@ -1,4 +1,9 @@
 # The Age of Applied AI
+
+- [Cloud Skills Challenges](#cloud-skills-challenge)
+- [Presentation resources](#cloud-skills-challenge)
+
+
 ![Age of Applied AI](age-of-ai.JPG)
 
 After a tremendous age of innovation and research in the AI field, we are moving towards the age of appliance. But how and where do you get started as a developer and how do you apply machine learning ethically and use it for good.
