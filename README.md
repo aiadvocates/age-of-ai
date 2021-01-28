@@ -14,7 +14,7 @@ By [Amy Boyd](https://twitter.com/AmyKateNicho) and [Henk Boelman](https://twitt
 
 ![Azure Lowlands Cloud Skills Challenge Banner Art](lowlands-csc.PNG)
 
-### **Challenge Page:** [Azure Lowlands 2021 - Age of Applied AI](https://docs.microsoft.com/learn/challenges?id=75e4bb5e-075d-4d9c-8235-d259d567f83d&ocid=aid3028059?WT.mc_id=aiml-13838-CXA)
+### **Challenge Page:** [Azure Lowlands 2021 - Age of Applied AI](https://docs.microsoft.com/learn/challenges?id=75e4bb5e-075d-4d9c-8235-d259d567f83d&ocid=aid3028059&WT.mc_id=aiml-13838-CXA)
 
 
 
@@ -27,7 +27,7 @@ This challenge will run from 29th January 2021 - 3rd February 2021. On 4th Febru
 
 ![NDC London Cloud Skills Challenge Banner Art](ndc-cdc.PNG)
 
-### **Challenge Page:** [NDC London 2021 - Age of Applied AI](https://cloudskillschallenge.docs.microsoft.com/CSC/Challenge?challenge=f650a290-4fcf-4b55-9b0e-c8ee224252ba?WT.mc_id=aiml-13838-CXA)
+### **Challenge Page:** [NDC London 2021 - Age of Applied AI](https://cloudskillschallenge.docs.microsoft.com/CSC/Challenge?challenge=f650a290-4fcf-4b55-9b0e-c8ee224252ba&WT.mc_id=aiml-13838-CXA)
 
 
 **Terms and Conditions:**
@@ -46,10 +46,10 @@ The more you search the more you learn - but a good few starting points are shar
 
 ## Chapter 2 - What is AI?
 
-* [Fundamentals of machine learning in the cloud](https://azure.microsoft.com/resources/videos/fundamentals-of-machine-learning-in-the-cloud/?OCID=AID3028844)
-* [What is Machine Learning](https://azure.microsoft.com/overview/what-is-machine-learning-platform/)
-* [Introduction to Azure AI](https://azure.microsoft.com/resources/videos/intro-to-azure-ai/?OCID=AID3028844)
-* See more videos like this [here](https://azure.microsoft.com/resources/videos/index/)
+* [Fundamentals of machine learning in the cloud](https://azure.microsoft.com/resources/videos/fundamentals-of-machine-learning-in-the-cloud/?WT.mc_id=aiml-13838-CXA)
+* [What is Machine Learning](https://azure.microsoft.com/overview/what-is-machine-learning-platform/?WT.mc_id=aiml-13838-CXA)
+* [Introduction to Azure AI](https://azure.microsoft.com/resources/videos/intro-to-azure-ai/?WT.mc_id=aiml-13838-CXA)
+* See more videos like this [here](https://azure.microsoft.com/resources/videos/index/?WT.mc_id=aiml-13838-CXA)
 
 ## Chapter 3 - What is possible?
 - [Demo video](https://www.youtube.com/watch?v=8KuJKlDSNwA)
@@ -60,21 +60,21 @@ The more you search the more you learn - but a good few starting points are shar
 In this chapter we spoke about "Would we Trust and AI to ..." and a FATE Framework we can use as a tool to help build ethical AI Projects. To read more check out the resources below:
 
 - [Blog Post: Would you trust an AI to …? A list of questions to help you figure out the answer](https://aka.ms/ethical-ai-questions)
-- [Microsoft Research FATE: Fairness, Accountability, Transparency and Ethics in AI](https://www.microsoft.com/research/theme/fate/)
+- [Microsoft Research FATE: Fairness, Accountability, Transparency and Ethics in AI](https://www.microsoft.com/research/theme/fate/?WT.mc_id=aiml-13838-CXA)
 
 ## Chapter 5 - Build vs Buy
 
 In this chapter we showed 2 demos that solved the problem of analyzing invoices, extratcing values and then using them in an application:
 * **Demo 1:** Azure Forms Recognizer and Azure Functions
     * [Demo Video](https://youtu.be/nmqt3oDOflY)
-    * [Azure Forms Recognizer Documentation](https://docs.microsoft.com/azure/cognitive-services/form-recognizer/)
-    * [Azure Functions Documentation](https://docs.microsoft.com/azure/azure-functions/)
+    * [Azure Forms Recognizer Documentation](https://docs.microsoft.com/azure/cognitive-services/form-recognizer/?WT.mc_id=aiml-13838-CXA)
+    * [Azure Functions Documentation](https://docs.microsoft.com/azure/azure-functions/?WT.mc_id=aiml-13838-CXA)
 * **Demo 2:** Microsoft Power Platform AI Builder and PowerApps
     * [Demo Video](https://youtu.be/_FFMTmPDNls)
-    * [AI Builder Documentation](https://docs.microsoft.com/ai-builder/)
-    * [AI Builder Microsoft Learn Modules](https://docs.microsoft.com/learn/browse/?products=ai-builder)
-    * [Power Apps Documentation](https://docs.microsoft.com/powerapps/)
-    * [Power Apps Microsoft Learn Modules](https://docs.microsoft.com/learn/browse/?products=power-apps)
+    * [AI Builder Documentation](https://docs.microsoft.com/ai-builder/?WT.mc_id=aiml-13838-CXA)
+    * [AI Builder Microsoft Learn Modules](https://docs.microsoft.com/learn/browse/?products=ai-builder&WT.mc_id=aiml-13838-CXA)
+    * [Power Apps Documentation](https://docs.microsoft.com/powerapps/?WT.mc_id=aiml-13838-CXA)
+    * [Power Apps Microsoft Learn Modules](https://docs.microsoft.com/learn/browse/?products=power-apps&WT.mc_id=aiml-13838-CXA)
 
 
 --------------
