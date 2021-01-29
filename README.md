@@ -36,7 +36,7 @@ This challenge will run from 29th January 2021 - 3rd February 2021. On 4th Febru
 
 ![NDC London Cloud Skills Challenge Banner Art](ndc-cdc.PNG)
 
-### **Challenge Page:** [NDC London 2021 - Age of Applied AI](https://docs.microsoft.com/learn/challenges?id=f650a290-4fcf-4b55-9b0e-c8ee224252ba?WT.mc_id=aiml-13838-CXA)
+### **Challenge Page:** [NDC London 2021 - Age of Applied AI](https://docs.microsoft.com/learn/challenges?id=f650a290-4fcf-4b55-9b0e-c8ee224252ba&WT.mc_id=aiml-13838-CXA)
 
 
 **Terms and Conditions:**
