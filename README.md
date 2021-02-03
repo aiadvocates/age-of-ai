@@ -1,8 +1,8 @@
-#### Winnars NDC London
+#### Winners NDC London
 - Cristina Cosoroabă
 - Hakan Silfvernagel
 
-#### Winnars Azure Lowlands
+#### Winners Azure Lowlands
 - Dennis de Groot
 - Manbearpiet
 - Sujith Quintelier
