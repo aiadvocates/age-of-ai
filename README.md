@@ -1,3 +1,13 @@
+#### Winnars NDC London
+- Cristina Cosoroabă
+- Hakan Silfvernagel
+
+#### Winnars Azure Lowlands
+-
+-
+-
+
+------------------
 # The Age of Applied AI
 
 - [Cloud Skills Challenges](#cloud-skills-challenge)
