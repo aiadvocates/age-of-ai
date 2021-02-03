@@ -3,11 +3,11 @@
 - Hakan Silfvernagel
 
 #### Winnars Azure Lowlands
--
--
--
+- Dennis de Groot
+- Manbearpiet
+- Sujith Quintelier
 
-Contact: henk@thursday.cloud to claim your price
+Contact: henk@thursday.cloud to claim your price.
 
 ------------------
 # The Age of Applied AI
