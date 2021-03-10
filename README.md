@@ -1,18 +1,5 @@
-#### Winners NDC London
-- Cristina Cosoroabă
-- Hakan Silfvernagel
-
-#### Winners Azure Lowlands
-- Dennis de Groot
-- Manbearpiet
-- Sujith Quintelier
-
-Contact: henk@thursday.cloud to claim your price.
-
-------------------
 # The Age of Applied AI
 
-- [Cloud Skills Challenges](#cloud-skills-challenge)
 - [Presentation resources](#chapter-related-resources)
 - [More AI learning resources](#more-ai-learning-resources)
 
@@ -29,34 +16,6 @@ By [Amy Boyd](https://twitter.com/AmyKateNicho) and [Henk Boelman](https://twitt
 
 --------------
 
-# Cloud Skills Challenge
-
-## Azure Lowlands 2021
-
-![Azure Lowlands Cloud Skills Challenge Banner Art](lowlands-csc.PNG)
-
-### **Challenge Page:** [Azure Lowlands 2021 - Age of Applied AI](https://docs.microsoft.com/learn/challenges?id=75e4bb5e-075d-4d9c-8235-d259d567f83d&ocid=aid3028059&WT.mc_id=aiml-13838-CXA)
-
-
-
-**Terms and Conditions:**
-We have 3 swag bag prizes available for you to win by reaching the top of the leaderboard. 
-
-This challenge will run from 29th January 2021 - 3rd February 2021. On 4th February 2021 we will post the aliases of the 3 winning entries on this page and ask for you to reach out to us - so keep an eye on the link above.
-
-## NDC London 2021
-
-![NDC London Cloud Skills Challenge Banner Art](ndc-cdc.PNG)
-
-### **Challenge Page:** [NDC London 2021 - Age of Applied AI](https://docs.microsoft.com/learn/challenges?id=f650a290-4fcf-4b55-9b0e-c8ee224252ba&WT.mc_id=aiml-13838-CXA)
-
-
-**Terms and Conditions:**
-We have 20 Microsoft Certification Discount Codes as prizes available for you to win by reaching the top of the leaderboard. 
-
-This challenge will run from 29th January 2021 - 3rd February 2021. On 4th February 2021 we will post the aliases of the 20 winning entries on this page and ask for you to reach out to us - so keep an eye on the link above.
-
---------------
 
 # Chapter Related Resources
 
