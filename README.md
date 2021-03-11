@@ -63,6 +63,9 @@ In this chapter we showed 2 demos that solved the problem of analyzing invoices,
 
 # More AI learning resources
 
+## Shows
+- [**A Bit of AI with Henk and Amy:**](https://www.abitofai.show/) What is it like to work in the field of AI? How do you get started with AI? And what is going on this week? Find out in this 30-minute show hosted by cloud advocates Henk and Amy. In this show we will enter a conversation with our guest who works with AI daily, and challenge you to expand your skill set with a recommended weekly MS Learn module.
+
 ## Inspiration
 - Check out lot of Azure AI Content from an [AI April Campaign](https://aka.ms/aiapril)
 - [Kate Crawford - The Trouble with Bias, NIPS 2017 Keynote](https://aka.ms/troublewithbias)
